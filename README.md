@@ -1,1 +1,1 @@
-# Landingpage-2
+Created a landing page using HTML and CSS.
